@@ -1,0 +1,13 @@
+{
+  "description": "NUCSSA Wechat App",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "postcss": false,
+    "minified": false
+  },
+  "compileType": "miniprogram",
+  "appid": "wx99c107c28fd51df5",
+  "projectname": "nucssa-wechat-app",
+  "miniprogramRoot": "./dist"
+}
